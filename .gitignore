@@ -1,0 +1,5 @@
+./isa/risv/bin
+./isa/risv/lib
+./isa/risv/riscv-gnu-toolchain
+./isa/risv32-unknown-elf
+./isa/share
